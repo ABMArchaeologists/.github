@@ -8,4 +8,19 @@ You will find the following repositories
 - ABMA_tutorials
 - ABMA_website
 
-The project is a collaboration between Aarhus University, Landward Research, Leiden University and [Saxion University of Applied Sciences](https://www.saxion.edu/)
+The project is a collaboration between [Aarhus University](https://international.au.dk/), [Landward Research](https://landward.eu/), [Leiden University](https://www.universiteitleiden.nl/en) and [Saxion University of Applied Sciences](https://www.saxion.edu/).
+
+The teams consisted of:
+- Aarhus University
+  - Tom Brughmans (https://orcid.org/0000-0002-1589-7768)
+  - Iza Romanowska (https://orcid.org/0000-0002-9487-2111)
+- Landward Research
+  - Doug Rocks-Macqueen
+  - Kenneth Aitchison
+- Leiden University
+  - Laura van der Knaap
+  - Karsten Lambers (https://orcid.org/0000-0001-6432-0925)
+- Saxion University of Applied Sciences
+  - Annemarie Jutte
+  - Jeroen Linssen
+  - Ronald Visser (https://orcid.org/0000-0001-6966-1729)
