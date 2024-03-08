@@ -10,7 +10,7 @@ You will find the following repositories
 
 The project is a collaboration between [Aarhus University](https://international.au.dk/), [Landward Research](https://landward.eu/), [Leiden University](https://www.universiteitleiden.nl/en) and [Saxion University of Applied Sciences](https://www.saxion.edu/).
 
-The teams consisted of:
+The team consists of:
 - Aarhus University
   - Tom Brughmans (https://orcid.org/0000-0002-1589-7768)
   - Iza Romanowska (https://orcid.org/0000-0002-9487-2111)
