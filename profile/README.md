@@ -21,6 +21,6 @@ The team consists of:
   - Laura van der Knaap
   - Karsten Lambers (https://orcid.org/0000-0001-6432-0925)
 - Saxion University of Applied Sciences
-  - Annemarie Jutte
+  - Annemarie Jutte (https://orcid.org/0009-0004-9322-0674)
   - Jeroen Linssen
   - Ronald Visser (https://orcid.org/0000-0001-6966-1729)
