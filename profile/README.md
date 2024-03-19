@@ -16,7 +16,7 @@ The team consists of:
   - Iza Romanowska (https://orcid.org/0000-0002-9487-2111)
 - Landward Research
   - Doug Rocks-Macqueen
-  - Kenneth Aitchison
+  - Kenneth Aitchison (https://orcid.org/0000-0001-6594-1408)
 - Leiden University
   - Laura van der Knaap
   - Karsten Lambers (https://orcid.org/0000-0001-6432-0925)
