@@ -22,5 +22,5 @@ The team consists of:
   - Karsten Lambers (https://orcid.org/0000-0001-6432-0925)
 - Saxion University of Applied Sciences
   - Annemarie Jutte (https://orcid.org/0009-0004-9322-0674)
-  - Jeroen Linssen
+  - Jeroen Linssen (https://orcid.org/0000-0002-2626-1837)
   - Ronald Visser (https://orcid.org/0000-0001-6966-1729)
