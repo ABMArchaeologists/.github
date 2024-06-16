@@ -17,7 +17,7 @@ The team consists of:
   - Tom Brughmans (https://orcid.org/0000-0002-1589-7768)
   - Iza Romanowska (https://orcid.org/0000-0002-9487-2111)
 - Landward Research
-  - Doug Rocks-Macqueen
+  - Doug Rocks-Macqueen (https://orcid.org/0000-0001-9021-0260)
   - Kenneth Aitchison (https://orcid.org/0000-0001-6594-1408)
 - Leiden University
   - Laura van der Knaap
