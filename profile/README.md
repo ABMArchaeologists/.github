@@ -10,7 +10,7 @@ You will find the following repositories
 - [ABMA_tutorials](https://github.com/ABMArchaeologists/ABMA_tutorials)  [![DOI](https://zenodo.org/badge/765576497.svg)](https://zenodo.org/doi/10.5281/zenodo.10931586)
 - [ABMA_website source](https://github.com/ABMArchaeologists/ABMA_website)  [![DOI](https://zenodo.org/badge/781353245.svg)](https://zenodo.org/doi/10.5281/zenodo.10931758)
 
-Other materials can be found in the ABMA Zenodo community: https://zenodo.org/communities/abma 
+Other materials can be found in the ABMA Zenodo community: https://zenodo.org/communities/abma .
 
 The project is a collaboration between [Aarhus University](https://international.au.dk/), [Landward Research](https://landward.eu/), [Leiden University](https://www.universiteitleiden.nl/en) and [Saxion University of Applied Sciences](https://www.saxion.edu/).
 
