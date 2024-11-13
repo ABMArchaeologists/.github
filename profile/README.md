@@ -6,7 +6,7 @@ You can go to our website to view the final products: https://abmarchaeologists.
 
 You will find the following repositories
 
-- ABMA_paper
+[- ABMA_paper](https://github.com/ABMArchaeologists/ABMA_paper)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14134218.svg)](https://doi.org/10.5281/zenodo.14134218)
 - [ABMA_tutorials](https://github.com/ABMArchaeologists/ABMA_tutorials)  [![DOI](https://zenodo.org/badge/765576497.svg)](https://zenodo.org/doi/10.5281/zenodo.10931586)
 - [ABMA_website source](https://github.com/ABMArchaeologists/ABMA_website)  [![DOI](https://zenodo.org/badge/781353245.svg)](https://zenodo.org/doi/10.5281/zenodo.10931758)
 
